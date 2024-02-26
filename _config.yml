@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: Jenny A. Fisher
+title: LIGMATV
 
 # Short description of your site
-description: Centre for Atmospheric Chemistry, University of Wollongong
+description: Website
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -21,18 +21,6 @@ description: Centre for Atmospheric Chemistry, University of Wollongong
 # List of links in the navigation bar
 navbar-links:
   Welcome: "index"
-  Research:
-    - Research: "research"
-    - Media: "media"
-    - Publications: "publications"
-    - Presentations: "presentations"
-  Teaching:
-    - Portfolio: "https://sites.google.com/view/jfisher-teaching-portfolio/home"
-    - Jupyter Notebooks: "https://jennyfisher.github.io/computing-modelling-earthsci/"
-  People:
-    - Students & Alumni: "people"
-    - Prospective Students: "prospective"
-  About Me: "aboutme"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -46,15 +34,17 @@ navbar-links:
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#4863A0"
-navbar-text-col: "#C0C0C0"
-navbar-children-col: "#5C77B4"
+navbar-col: "#07BBBC"
+navbar-text-col: "#7576ac"
+navbar-border-col: "#0085A1"
 page-col: "#FFFFFF"
-link-col: "#008AFF"
-hover-col: "#021D5A"
-footer-col: "#F5F5F5"
+text-col: "#7576ac"
+link-col: "#07BBBC"
+hover-col: "#0085A1"
+footer-col: "#EAEAEA"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
+footer-hover-col: "#0085A1"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
@@ -68,7 +58,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Jenny Fisher
+  name: LIGMATV
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -76,10 +66,10 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
 #  rss: true
-  email: "jennyf@uow.edu.au"
+#  email: "jennyf@uow.edu.au"
 #  facebook: deanattali
-  twitter: AtmosJennyF
-  github: jennyfisher
+#  twitter: AtmosJennyF
+  github: LIGMATV
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
