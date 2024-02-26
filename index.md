@@ -10,7 +10,7 @@ use-site-title: true
 <p><img src="https://raw.githubusercontent.com/LIGMATV/LIGMATV/main/HEADER.svg" alt="img"></p>
 
 <p><a href="https://ligmatv.vercel.app/"><img src="https://img.shields.io/badge/Go%20to%20my%20Website!-07BBBC?style=for-the-badge" alt="0"></a>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" style="width:20px; height:20px;"> </a></p>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" style="width:20px; height:20px;"> </p>
 <p>
   
 <a href="https://l-i.vercel.app/youtube"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="1"></a>
@@ -25,7 +25,7 @@ use-site-title: true
 </div>
 
 <h4 id="hello-im-a-not-developer-im-just-do-it-for-fun-in-the-free-time">Hello! Im a <em>(not)</em> developer, im just do it for fun in the free time.</h4>
-<details> <summary> <h3>
+<details> <summary> <h3> ▸
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" style="width:30px; height:30px;">
   Learn mooore about me
 </h3>
@@ -80,7 +80,7 @@ use-site-title: true
 <p><img src="https://youtube-stats-card.vercel.app/api?channelid=UC8rQRn6PqLyzyAhpiiGcOjw&title_color=367B80&icon_color=893AEF&text_color=367B80&bg_color=EFF1F5" alt="LIGMATV&#39;s youtube stats"></p>
 </details>
 
-<details> <summary> <h3>
+<details> <summary> <h3> ▸
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Luggage.webp" style="width:20px; height:20px;">
   Some tools by me!
 </h3>
@@ -97,7 +97,7 @@ use-site-title: true
 <a href="https://copies.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=Copies.js&theme=catppuccin_latte" alt="LIGMATV&#39;s Card"></a>
 <a href="https://2ools.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=2ools&theme=catppuccin_latte" alt="LIGMATV&#39;s Card"></a></p>
 <details><summary>
-Details
+▸ Details
   
 <p><a href="https://archivs.vercel.app/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LIGMATV&repo=Archives&theme=catppuccin_latte" alt="LIGMATV&#39;s Card"></a></p>
 </summary>
